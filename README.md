@@ -2,6 +2,16 @@
 
 Application web de quiz conteneurisée avec Docker Compose utilisant PostgreSQL, Express.js et Nginx.
 
+## Images Docker
+
+Les images Docker sont disponibles sur Docker Hub :
+
+| Service | Image |
+|---------|-------|
+| Backend | [`fablrc/quiz-app-backend`](https://hub.docker.com/r/fablrc/quiz-app-backend) |
+| Frontend | [`fablrc/quiz-app-frontend`](https://hub.docker.com/r/fablrc/quiz-app-frontend) |
+| Database | [`fablrc/quiz-app-db`](https://hub.docker.com/r/fablrc/quiz-app-db) |
+
 ## Installation
 
 ### 1. Cloner le projet

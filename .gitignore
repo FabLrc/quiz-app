@@ -41,3 +41,6 @@ coverage/
 # mcp
 .mcp.json
 .playwright-mcp/
+
+# Anciens fichiers (avant nouveau fork)
+/ANCIEN
